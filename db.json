@@ -1,14 +1,144 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "slider": [
+    {
+      "id": 1,
+      "name": "t-shirt bruno 417",
+      "price": 41.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194527.jpg"
+    },
+    {
+      "id": 2,
+      "name": "t-shirt bruno 456",
+      "price": 41.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194531.jpg"
+    },
+    {
+      "id": 3,
+      "name": "t-shirt bastien 479",
+      "price": 41.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_174361.jpg"
+    },
+    {
+      "id": 4,
+      "name": "t-shirt jourdain 672",
+      "price": 38.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194601.jpg"
+    },
+    {
+      "id": 5,
+      "name": "t-shirt jovan 101",
+      "price": 69.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194166.jpg"
+    },
+    {
+      "id": 6,
+      "name": "t-shirt marcelle 110",
+      "price": 41.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194543.jpg"
+    },
+    {
+      "id": 7,
+      "name": "t-shirt onedortas 403",
+      "price": 55.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_194302.jpg"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "newArrivals": [
+    {
+      "id": 1,
+      "name": "trampki T174101 403",
+      "price": 99.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_189842.jpg"
+    },
+    {
+      "id": 2,
+      "name": "trampki T174100 603",
+      "price": 99.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_189838.jpg"
+    },
+    {
+      "id": 3,
+      "name": "bluza NIKDOR 900",
+      "price": 80.0,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_182387.jpg"
+    },
+    {
+      "id": 4,
+      "name": "bluza ABELARDO 603",
+      "price": 119.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_187602.jpg"
+    },
+    {
+      "id": 5,
+      "name": "sweter MALAKAI 403",
+      "price": 111.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_189396.jpg"
+    },
+    {
+      "id": 6,
+      "name": "sweter  JAXXON 000",
+      "price": 111.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_187563.jpg"
+    },
+    {
+      "id": 7,
+      "name": "spodnie MARTIN 450",
+      "price": 172.49,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_164533.jpg"
+    },
+    {
+      "id": 8,
+      "name": "spodnie COLT 497",
+      "price": 239.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_181766.jpg"
+    },
+    {
+      "id": 9,
+      "name": "kurtka ABELARD 403",
+      "price": 179.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_189592.jpg"
+    },
+    {
+      "id": 10,
+      "name": "kurtka THIAGO 403",
+      "price": 179.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_189255.jpg"
+    },
+    {
+      "id": 11,
+      "name": "koszula DOMINIQUE 400",
+      "price": 64.0,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_181375.jpg"
+    },
+    {
+      "id": 12,
+      "name": "skarpety A-255 490",
+      "price": 13.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193039.jpg"
+    },
+    {
+      "id": 13,
+      "name": "skarpety A-261 454",
+      "price": 13.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193040.jpg"
+    },
+    {
+      "id": 14,
+      "name": "okulary Z74060 900",
+      "price": 89.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193083.jpg"
+    },
+    {
+      "id": 15,
+      "name": "czapka MARC 123",
+      "price": 79.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193816.jpg"
+    },
+    {
+      "id": 16,
+      "name": "portfel 3172 900",
+      "price": 83.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_195256.jpg"
+    }
+  ]
 }
