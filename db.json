@@ -124,21 +124,43 @@
     },
     {
       "id": 14,
-      "name": "okulary Z74060 900",
-      "price": 89.99,
-      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193083.jpg"
+      "name": "koszulka polo DOMINIC 403",
+      "price": 83.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_188071.jpg"
     },
     {
       "id": 15,
-      "name": "czapka MARC 123",
-      "price": 79.99,
-      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_193816.jpg"
+      "name": "czapka TEO 906",
+      "price": 59.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_192190.jpg"
     },
     {
       "id": 16,
-      "name": "portfel 3172 900",
-      "price": 83.99,
-      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_195256.jpg"
+      "name": "portfel 3146 850",
+      "price": 119.99,
+      "img": "https://cp.bigstar.pl/files/sc_staging_images/product/full_img_169946.jpg"
+    }
+  ],
+  "promo": [
+    {
+      "id": 1,
+      "txt": "Sleeve denim mini dress",
+      "img": "https://cdn.pixabay.com/photo/2015/10/12/14/59/girl-984060_960_720.jpg"
+    },
+    {
+      "id": 2,
+      "txt": "Back to school!",
+      "img": "https://cdn.pixabay.com/photo/2017/08/01/11/48/blue-2564660_960_720.jpg"
+    },
+    {
+      "id": 3,
+      "txt": "Jewelry for night",
+      "img": "https://cdn.pixabay.com/photo/2016/01/19/17/48/woman-1149911_960_720.jpg"
+    },
+    {
+      "id": 4,
+      "txt": "Sunglasses for you",
+      "img": "https://cdn.pixabay.com/photo/2015/03/26/09/47/leather-jacket-690316_960_720.jpg"
     }
   ]
 }
